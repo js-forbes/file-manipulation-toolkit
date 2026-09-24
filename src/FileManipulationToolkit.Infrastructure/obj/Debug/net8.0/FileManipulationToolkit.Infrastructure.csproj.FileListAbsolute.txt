@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\obj\Debug\net8.0\FileManipulationToolkit.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\obj\Debug\net8.0\FileManipulationToolkit.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\obj\Debug\net8.0\FileManipulationToolkit.Infrastructure.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\obj\Debug\net8.0\FileManipulationToolkit.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\obj\Debug\net8.0\FileManipulationToolkit.Infrastructure.sourcelink.json
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\obj\Debug\net8.0\FileManipulationToolkit.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\bin\Debug\net8.0\FileManipulationToolkit.Infrastructure.deps.json
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\bin\Debug\net8.0\FileManipulationToolkit.Infrastructure.dll
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\bin\Debug\net8.0\FileManipulationToolkit.Infrastructure.pdb
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\bin\Debug\net8.0\FileManipulationToolkit.Core.dll
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\bin\Debug\net8.0\FileManipulationToolkit.Core.pdb
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\obj\Debug\net8.0\FileMani.54280FBD.Up2Date
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\obj\Debug\net8.0\FileManipulationToolkit.Infrastructure.dll
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\obj\Debug\net8.0\refint\FileManipulationToolkit.Infrastructure.dll
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\obj\Debug\net8.0\FileManipulationToolkit.Infrastructure.pdb
+C:\Users\ADMIN\Documents\Programming\src\FileManipulationToolkit.Infrastructure\obj\Debug\net8.0\ref\FileManipulationToolkit.Infrastructure.dll
